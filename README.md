@@ -24,7 +24,7 @@ This project implements a restaurant recommendation system that utilizes a combi
 **How to Use:**
 
 1. Install the required libraries mentioned in the `requirements.txt` file.
-2. Run the Jupyter Notebook (`restaurant_recommender.ipynb`) to explore the system's functionality.
+2. Run the Jupyter Notebook to explore the system's functionality.
 3. Provide user preferences, such as favorite cuisines and location, to generate personalized restaurant recommendations.
 4. Get similar restaurant recommendations based on previously visited restaurants.
 5. Predict sentiment polarity for new user reviews to enhance the system's understanding of user preferences.
