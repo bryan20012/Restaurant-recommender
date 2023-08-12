@@ -32,6 +32,7 @@ This project implements a restaurant recommendation system that utilizes a combi
 **Note:**
 - The data used for this project should be appropriately formatted and preprocessed to match the system's input requirements.
 - Customize the model parameters and data preprocessing steps according to your use case and data characteristics.
+- Please be aware that the dataset required for running this project is not provided within this repository. Instead, you can access the dataset through the provided link (https://www.kaggle.com/datasets/choonkhonng/malaysia-restaurant-review-datasets).
 
 **Dependencies:**
 
